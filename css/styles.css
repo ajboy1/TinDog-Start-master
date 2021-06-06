@@ -136,8 +136,19 @@ p {
 .last {
   font-family: "Montserrat";
   font-weight: 900;
-  padding: 5% 3% 5%;
-  font-size: 3.5rem;
+  padding: 7% 18%;
+  font-size: 3rem;
   line-height: 1.5;
   text-align: center;
+}
+
+/* footer section */
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.social-icon {
+  margin: 10px 10px;
 }
